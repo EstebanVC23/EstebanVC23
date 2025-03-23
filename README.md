@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**EstebanVC23/EstebanVC23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on web development projects and learning full-stack technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Java, JavaScript, React, Node.js, databases, and cloud deployment.
+
+👯 I’m looking to collaborate on web development, cybersecurity, and open-source projects.
+
+🤔 I’m looking for help with optimizing backend performance and security best practices.
+
+💬 Ask me about web development, problem-solving, and technology trends.
+.
+📫 How to reach me: EstebanVC23.
+.
+😄 Pronouns: He/Him.
+.
+⚡ Fun fact: I love solving complex problems and always enjoy a good tech challenge! 🚀.
+
