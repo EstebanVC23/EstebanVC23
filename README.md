@@ -10,10 +10,10 @@
 🤔 I’m looking for help with optimizing backend performance and security best practices.
 
 💬 Ask me about web development, problem-solving, and technology trends.
-.
+
 📫 How to reach me: EstebanVC23.
-.
+
 😄 Pronouns: He/Him.
-.
+
 ⚡ Fun fact: I love solving complex problems and always enjoy a good tech challenge! 🚀.
 
