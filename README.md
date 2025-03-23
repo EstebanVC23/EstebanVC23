@@ -9,9 +9,8 @@
 	<img src="https://komarev.com/ghpvc/?username=EstebanVC23&label=Profile%20views&color=0047AB&style=plastic?" alt="EstebanVC23" height=25px, width=160px/> 
 </p>
 
-## <picture><img src="https://github.com/EstebanVC23/EstebanVC23/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## About me
 
-<picture> <img align="right" src="https://github.com/EstebanVC23/EstebanVC23/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
