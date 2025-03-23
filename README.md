@@ -11,15 +11,14 @@
 
 ## About me
 
-
 <br><br>
 
-- :school: I am a `Junior` at `Faculty of Computers & Informatics`.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+-   :school: I am a `Junior` at `Faculty of Computers & Informatics`.
+-   :technologist: I love using Software as a solution for every `Problem`.
+-   :student: I’m currently learning `Computer Science` and `Software Engineering`.
+-   :nerd_face: Always `learning new things`.
+-   :thinking: I’m currently open for a new `job opportunity`.
+-   :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 
 <br>
 
@@ -36,6 +35,7 @@
 </p>
 
 ### Frontend Development
+
 <p align="center"> 
   &emsp; <a href="https://reactjs.org/" target="_blank"> <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"></a>  
   &emsp; <a href="https://reactrouter.com/" target="_blank"> <img alt="React Router" src="https://img.shields.io/badge/React%20Router-%23CA4245.svg?style=plastic&logo=react-router&logoColor=white"></a>
@@ -44,6 +44,7 @@
 </p>
 
 ### Software & Tools
+
 <p align="center">
   &emsp; <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp; <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
@@ -52,9 +53,9 @@
 </p>
 
 ### IDEs
+
 <p align="center">
   &emsp; <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp; <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white"></a>
   &emsp; <a href="#"><img alt="DrRacket" src="https://img.shields.io/badge/DrRacket-%23A51D2D.svg?style=plastic&logo=racket&logoColor=white"></a>
   &emsp; <a href="#"><img alt="Dev C++" src="https://img.shields.io/badge/Dev%20C++-%23007396.svg?style=plastic&logo=c&logoColor=white"></a>
   &emsp; <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=plastic&logo=pycharm&logoColor=white"></a>
@@ -71,21 +72,24 @@
 ## 🌱 Featured Projects
 
 ### [Project Name 1](link-to-project)
+
 A brief description of the project, technologies used, and what you learned.
 
 ### [Project Name 2](link-to-project)
+
 A brief description of the project, technologies used, and what you learned.
 
 ### [Project Name 3](link-to-project)
+
 A brief description of the project, technologies used, and what you learned.
 
 ---
 
 ## 📫 Connect with Me
 
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Email](mailto:your-email@example.com)
+-   [LinkedIn](your-linkedin-url)
+-   [Twitter](your-twitter-url)
+-   [Email](mailto:your-email@example.com)
 
 ---
 
