@@ -28,7 +28,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/EstebanVC23/EstebanVC23/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
+Programming Languages
 
 <p align="center"> 
   &emsp; 
@@ -47,5 +47,71 @@
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+    &emsp;
+  <a href="https://racket-lang.org/" target="_blank">
+    <img alt="Racket" src="https://img.shields.io/badge/Racket-%230A4D2D.svg?style=plastic&logo=racket&logoColor=white">
+  </a>
+</p>
+
+### <picture> <img src = "https://github.com/EstebanVC23/EstebanVC23/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://reactjs.org/" target="_blank"> 
+   <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
+  </a>   
+</p>
+
+### <picture> <img src = "https://github.com/EstebanVC23/EstebanVC23/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ 
+<p align="center">
   &emsp;
-  <a href="https://racket-lang.org/"
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"></a>
+</p>
+
+### <picture> <img src = "https://github.com/EstebanVC23/EstebanVC23/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JetBrains" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+</p>
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstebanVC23&show_icons=true&theme=blue)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanVC23&layout=compact&theme=blue)
+
+---
+
+## 🌱 Featured Projects
+
+### [Project Name 1](link-to-project)
+A brief description of the project, technologies used, and what you learned.
+
+### [Project Name 2](link-to-project)
+A brief description of the project, technologies used, and what you learned.
+
+### [Project Name 3](link-to-project)
+A brief description of the project, technologies used, and what you learned.
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](your-linkedin-url)
+- [Twitter](your-twitter-url)
+- [Email](mailto:your-email@example.com)
+
+---
+
+## 🎉 Thanks for visiting my profile!
+
+If you like what you see, feel free to follow me and stay updated on my projects. I'm always open to collaboration and learning from others!
