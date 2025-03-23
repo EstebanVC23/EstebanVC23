@@ -7,24 +7,6 @@
   - Información de contacto
 -->
 
-<!-- Sección de estilos CSS para personalizar la apariencia del README -->
-<style>
-  /* Estilo para el fondo y texto principal */
-  body {
-    background-color: #0d1117;  /* Color de fondo oscuro estilo GitHub dark mode */
-    color: #c9d1d9;  /* Color de texto claro para mejor contraste */
-    font-family: Arial, sans-serif;  /* Fuente principal sin serifa */
-  }
-  /* Estilo para los enlaces */
-  a {
-    color: #58a6ff;  /* Color azul claro para los enlaces */
-  }
-  /* Asegura que las imágenes tengan fondo transparente */
-  img {
-    background-color: transparent;
-  }
-</style>
-
 <!-- Encabezado principal con nombre y gif animado -->
 <h1 align="center">Hi, I'm Esteban <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
