@@ -122,19 +122,9 @@
 ## 🌱 Featured Projects
 
 <!-- Proyecto 1 con descripción -->
-### [Project Name 1](link-to-project)
+### [Project Name 1](https://github.com/EstebanVC23/LearnReact)
 
-A brief description of the project, technologies used, and what you learned.
-
-<!-- Proyecto 2 con descripción -->
-### [Project Name 2](link-to-project)
-
-A brief description of the project, technologies used, and what you learned.
-
-<!-- Proyecto 3 con descripción -->
-### [Project Name 3](link-to-project)
-
-A brief description of the project, technologies used, and what you learned.
+This project showcases best practices in React development. It emphasizes project organization, reusable components, and efficient development workflows. Through this, I learned to structure scalable applications and explore real-world open-source examples.
 
 <!-- Línea divisoria -->
 ---
