@@ -88,23 +88,13 @@
   &emsp; <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-%23000000.svg?style=plastic&logo=pycharm&logoColor=white"></a>
 </p>
 
-<!-- Sección de estadísticas de GitHub -->
-## 📈 GitHub Statistics
-
-<!-- Tarjeta de estadísticas generales de GitHub -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstebanVC23&show_icons=true&theme=blue)
-
-<!-- Tarjeta de lenguajes más utilizados -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanVC23&layout=compact&theme=blue)
-
-<!-- Línea divisoria -->
 ---
 
 <!-- Sección de proyectos destacados -->
 ## 🌱 Featured Projects
 
 <!-- Proyecto 1 con descripción -->
-### [Project Name 1](https://github.com/EstebanVC23/LearnReact)
+### [LearnReact](https://github.com/EstebanVC23/LearnReact)
 
 This project showcases best practices in React development. It emphasizes project organization, reusable components, and efficient development workflows. Through this, I learned to structure scalable applications and explore real-world open-source examples.
 
