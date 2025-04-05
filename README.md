@@ -35,7 +35,7 @@
 -   :student: I'm currently learning `Computer Science` and `Software Engineering`.  <!-- Áreas de estudio -->
 -   :nerd_face: Always `learning new things`.  <!-- Actitud hacia el aprendizaje -->
 -   :thinking: I'm currently open for a new `job opportunity`.  <!-- Situación laboral actual -->
--   :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).  <!-- Enlace a sitio web personal -->
+-   :boom: You can visit [MY WEBSITE]().  <!-- Enlace a sitio web personal -->
 
 <!-- Espacio adicional para separar secciones -->
 <br>
